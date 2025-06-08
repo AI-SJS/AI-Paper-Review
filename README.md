@@ -12,7 +12,7 @@
 
 | No. | Title | Link |
 |-----|-------|------|
-| 1 | A Vision Attention Driven Language Framework for Medical Report Generation (Nature, 2025) | [`Research Paper Review - 1`](./Research%20Paper%20Review%20-%201) |
+| 1 | A Vision Attention Driven Language Framework for Medical Report Generation (Nature, 2025) | [`Research Paper Review - 1`](./Research%20Paper%20Review%20-%201.md) |
 
 ---
 
