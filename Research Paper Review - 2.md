@@ -66,8 +66,11 @@ OV detection의 표준 벤치마크인 COCO와 LVIS 데이터셋을 이용하여
 ### 🧠 주요 강점 요약
 
 ✅ OV detection 분야에서 최초로 씬 그래프(Scene Graph)를 명시적으로 활용한 연구입니다.
+
 ✅ 객체 간의 관계 정보를 통해 처음 보는 객체의 발견(Discovery), 분류, 위치 특정 능력을 크게 향상시켰습니다.
+
 ✅ SGOR 메커니즘을 통해 객체 위치 탐지(Localization)와 씬 그래프 추출이 상호 발전하는 구조를 설계했습니다.
+
 ✅ 이전 연구들이 수행하지 못했던 OV 씬 그래프 탐지(OV Scene Graph Detection)까지 가능한 최초의 모델입니다.
 
 -----
